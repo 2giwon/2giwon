@@ -13,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🌟 Skills
+[![Android Badge](http://img.shields.io/badge/-Android-brightgreen?style=for-the-badge&logo=android&link=https://d.android.com/)](https://d.android.com/)
+[![Kotlin Badge](http://img.shields.io/badge/-Kotlin-blue?style=for-the-badge&logo=kotlin&link=https://kotlinlang.org/docs/reference/)](https://kotlinlang.org/docs/reference/)
+
+[![Github Actions Badge](http://img.shields.io/badge/-GithubActions-black?style=for-the-badge&logo=github-actions&link=https://docs.github.com/en/actions/)](https://docs.github.com/en/actions/)
