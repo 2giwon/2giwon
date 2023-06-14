@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🌟 Skills
+### 💬 Skills
 [![Android Badge](http://img.shields.io/badge/-Android-brightgreen?style=for-the-badge&logo=android&link=https://d.android.com/)](https://d.android.com/)
 [![Kotlin Badge](http://img.shields.io/badge/-Kotlin-blue?style=for-the-badge&logo=kotlin&link=https://kotlinlang.org/docs/reference/)](https://kotlinlang.org/docs/reference/)
 
