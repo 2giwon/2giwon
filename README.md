@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 ### 💬 Skills
 [![Android Badge](http://img.shields.io/badge/-Android-brightgreen?style=for-the-badge&logo=android&link=https://d.android.com/)](https://d.android.com/)
-[![Kotlin Badge](http://img.shields.io/badge/-Kotlin-blue?style=for-the-badge&logo=kotlin&link=https://kotlinlang.org/docs/reference/)](https://kotlinlang.org/docs/reference/)
-
+[![Kotlin Badge](http://img.shields.io/badge/-Kotlin-purple?style=for-the-badge&logo=kotlin&link=https://kotlinlang.org/docs/reference/)](https://kotlinlang.org/docs/reference/)
+[![React Badge](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=React)
 [![Github Actions Badge](http://img.shields.io/badge/-GithubActions-black?style=for-the-badge&logo=github-actions&link=https://docs.github.com/en/actions/)](https://docs.github.com/en/actions/)
