@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 ### 💬 Skills
 [![Android Badge](http://img.shields.io/badge/-Android-brightgreen?style=for-the-badge&logo=android&link=https://d.android.com/)](https://d.android.com/)
 [![Kotlin Badge](http://img.shields.io/badge/-Kotlin-purple?style=for-the-badge&logo=kotlin&link=https://kotlinlang.org/docs/reference/)](https://kotlinlang.org/docs/reference/)
+[![JUnit Badge](http://img.shields.io/badge/-Junit-brightgreen?style=for-the-badge&logo=JUnit&link=https://junit.com/)]
+(https://junit.org/)
 [![Github Actions Badge](http://img.shields.io/badge/-GithubActions-black?style=for-the-badge&logo=github-actions&link=https://docs.github.com/en/actions/)](https://docs.github.com/en/actions/)
