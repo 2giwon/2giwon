@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-![2giwon's github most language](https://github-readme-stats.vercel.app/api/top-langs/?username=2giwon&layout=compact)
 <!--
 **2giwon/2giwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
